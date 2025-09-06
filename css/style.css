@@ -211,7 +211,7 @@ footer span {
         width: 95vw
     }
 
-    .blog-hero p, h3, h2 {
+    .blog-hero p, h3 {
         display: flex;
         width: 82vw;
         padding-left: 5vh;
@@ -246,7 +246,7 @@ footer span {
         width: 100%;
     }
 
-    .explanation-container p{
+    .explanation-container p, h3{
         padding: 0 5vw;
     }
     
